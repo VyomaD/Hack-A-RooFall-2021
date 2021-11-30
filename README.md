@@ -7,7 +7,8 @@ Presentation Link : https://docs.google.com/presentation/d/1oJGdMRia-bbe-qVaSqtb
 
 CONTRIBUTION OF WORK :
 
- Vyoma Desai
+Vyoma Desai
+ 
 Model training and testing, Triangle Similarity
 Training using TensorFlow API
 Core Idea about the project
@@ -16,6 +17,7 @@ Demo of the system
 
 
 Mohammed and Divyanshi
+
 Dataset
 Research
 Statistics
@@ -24,6 +26,7 @@ Wider face Dataset
 
 
 Tanvi Jain
+
 Alert System using gTTS
 Used Annotation using labelling package
 Efficient Text-To-Speech Conversion System
